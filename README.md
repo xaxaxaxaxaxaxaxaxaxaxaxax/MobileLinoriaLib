@@ -1,7 +1,7 @@
-# LinoriaLib
+# The Mobile Linoria Library
 A Roblox UI library inspired by Splix, BBot and many others.
 
-Used in the Linoria script hub: https://kyaru.cloud
+Used in the Linoria script hub and Suicide.lol: https://kyaru.cloud , [Suicide.lol](https://discord.com/invite/q5CsmsXpHd)
 
 ###### Example Script: 
 * [Example](Example.lua)
@@ -23,3 +23,4 @@ Used in the Linoria script hub: https://kyaru.cloud
 - Wally: Cleaning up verbose code, extending library functionality.
 - Stefanuk: Extending library functionality.
 - matas3535: Creator of Splix.
+- LionTheGyat: Mobile modification.
