@@ -9,6 +9,10 @@ Used in the Linoria script hub and Suicide.lol: https://kyaru.cloud , [Suicide.l
 ###### Interface Addons:
 * [Theme Manager](addons/ThemeManager.lua)&nbsp;&nbsp;|&nbsp;&nbsp;[Save Manager](addons/SaveManager.lua) 
 
+## To-Fix
+- Colorpicker
+- Skibidi Toilet Rizzler
+
 ## Features
 - Tabs, group boxes, and tab boxes
 - Almost any UI element you would ever need (toggles, sliders, dropdowns, etc)
